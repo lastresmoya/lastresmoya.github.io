@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="6px" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Webinar-3.3" transform="translate(-799.000000, -409.000000)" fill="#A8B5BF">
+            <g id="Group" transform="translate(631.000000, 398.000000)">
+                <g id="Icons/arrow" transform="translate(173.000000, 14.000000) rotate(-270.000000) translate(-173.000000, -14.000000) translate(170.000000, 9.000000)">
+                    <g id="ios-calendar-arrow">
+                        <path d="M5.6896693,4.24082963 L1.86207785,0.314133333 C1.44828797,-0.104711111 0.827603165,-0.104711111 0.413801582,0.314133333 C-6.65569641e-16,0.732977778 1.17088249e-05,1.36124444 0.413801582,1.78010074 L3.51724905,4.97381926 L0.310342405,8.21989926 C-0.103447468,8.6387437 -0.103447468,9.26701037 0.310342405,9.68586667 C0.724132278,10.1047111 1.34481709,10.1047111 1.75861867,9.68586667 L5.68965759,5.70680889 C6.10344747,5.28796444 6.10344747,4.65969778 5.68965759,4.24084148 L5.6896693,4.24082963 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
